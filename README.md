@@ -13,5 +13,7 @@
 ## Extras
 
 * Setup NVIM (just good to have)
-* run commands source ~/.zshrc to build
+* run commands `source ~/.zshrc` to build
 * setup alias for colorls
+* setup tmux config
+* run `tmux source-file ~/.tmux.conf` in a timux terminal to build
